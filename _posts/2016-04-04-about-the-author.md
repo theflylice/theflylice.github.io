@@ -2,8 +2,8 @@
 layout: post
 title: "Капкейки"
 author: "Alice"
- categories: facts
- tags: [sample]
+categories: facts
+tags: [sample]
 image: cupcake-2.jpg
 url: /cupcake
 ---
