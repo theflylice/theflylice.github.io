@@ -27,3 +27,8 @@ permalink: /faq
 
 ### Самовывоз
 - м. Академическая
+
+
+| <!-- -->      | <!-- -->        |
+|:-------------:|:---------------:|
+| ![alt text](\assets\img\cupcake-1.jpg "Cupcake")        | ![alt text](\assets\img\cupcake-1.jpg "Cupcake")    |
